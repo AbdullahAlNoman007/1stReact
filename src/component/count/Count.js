@@ -1,7 +1,7 @@
 import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faLocationDot } from '@fortawesome/free-solid-svg-icons'
-import luffy from '../../Image/332772907_2513191068821466_4242089600703599465_n.jpg'
+import luffy from '../../Image/1673336035861.jpg'
 import './Count.css'
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
@@ -26,7 +26,7 @@ const Count = (props) => {
                 <img id='img' src={luffy} alt="" />
                 </div>
                 <div>
-                <h4> Abdullah Al Noman</h4>
+                <h4> Sunan Rabbi</h4>
                 <p><FontAwesomeIcon icon={faLocationDot}/> Rajshahi,Bangladesh</p>
                 </div>
             </div>
