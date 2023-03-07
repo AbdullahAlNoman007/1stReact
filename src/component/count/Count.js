@@ -26,7 +26,7 @@ const Count = (props) => {
                 <img id='img' src={luffy} alt="" />
                 </div>
                 <div>
-                <h4> Sunan Rabbi</h4>
+                <h4> Abdullah Al Noman</h4>
                 <p><FontAwesomeIcon icon={faLocationDot}/> Rajshahi,Bangladesh</p>
                 </div>
             </div>
